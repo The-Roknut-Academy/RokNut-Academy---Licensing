@@ -73,6 +73,7 @@ Copyright © 2026 RokNut Academy, doing business as The RokNut Academy ("Licenso
 | 19 | [Governing Law and Dispute Resolution](#section-19--governing-law-and-dispute-resolution) |
 | 20 | [Notices and Contact](#section-20--notices-and-contact) |
 | 21 | [General Provisions](#section-21--general-provisions) |
+| 22 | [Takedown Policy (DMCA and Other Notices)](#section-22--takedown-policy-dmca-and-other-notices) |
 | A | [Schedule A — Covered Materials](#schedule-a--covered-materials-non-exhaustive) |
 | B | [Schedule B — Excluded Components](#schedule-b--excluded-components-non-exhaustive) |
 
@@ -352,7 +353,7 @@ Except to the extent expressly permitted in Section 4 or by a separate written a
 
 **12.6 Reinstatement.** Termination for breach is not cured by cessation of the breach. Rights may be reinstated only by Licensor's express written notice, in its sole discretion.
 
-**12.7 Survival.** Sections 1, 3, 5.7, 5.11, 7, 8, 9, 12.5, 12.7, and 13 through 21, and any other provision that by its nature should survive, survive termination.
+**12.7 Survival.** Sections 1, 3, 5.7, 5.11, 7, 8, 9, 12.5, 12.7, and 13 through 22, and any other provision that by its nature should survive, survive termination.
 
 ---
 
@@ -368,7 +369,7 @@ Except to the extent expressly permitted in Section 4 or by a separate written a
 
 **13.5 Cumulative Remedies.** All remedies are cumulative and not exclusive. Pursuit of one remedy does not waive any other.
 
-**13.6 Takedowns and Platform Notices.** Licensor may submit notices of infringement, takedown requests, and complaints to hosting providers, repository hosts, search engines, Third-Party Platforms, domain registrars, and other intermediaries, including under the U.S. Digital Millennium Copyright Act and equivalent laws. You consent to the forwarding of Your identifying information to the extent required by such processes.
+**13.6 Takedowns and Platform Notices.** Licensor may submit notices of infringement, takedown requests, and complaints to hosting providers, repository hosts, search engines, Third-Party Platforms, domain registrars, and other intermediaries, including under the U.S. Digital Millennium Copyright Act and equivalent laws. You consent to the forwarding of Your identifying information to the extent required by such processes. The procedures for issuing and receiving takedown notices are set out in Section 22.
 
 **13.7 Monitoring.** Licensor may monitor use of the RokNut Ecosystem to ensure compliance, and may use such information in enforcement.
 
@@ -503,6 +504,60 @@ Notices concerning a legal claim, a breach of this Agreement, or a request for a
 **21.12 Equitable Construction.** The parties acknowledge that the restrictions in this Agreement are reasonable and necessary to protect Licensor's legitimate interests. If a court finds any restriction overbroad in scope, duration, or geography, the court is authorized to narrow it to the maximum enforceable extent.
 
 **21.13 Cumulative Rights.** Rights and remedies under this Agreement are in addition to, and not in substitution for, those under law.
+
+---
+
+## SECTION 22 — TAKEDOWN POLICY (DMCA AND OTHER NOTICES)
+
+**22.1 Purpose and Scope.** This Section describes (a) how Licensor handles takedown requests, infringement notices, and similar complaints that Licensor **receives** concerning content in the RokNut Ecosystem ("**Incoming Notices**"), and (b) what Licensor does when it **issues** takedown requests, infringement notices, cease-and-desist letters, and similar demands to others ("**Outgoing Notices**"). It supplements, and does not limit, Section 13.
+
+**22.2 Authorized Channels Only.**
+
+- (a) **Outgoing Notices.** Every Outgoing Notice issued by or on behalf of Licensor will come from one, and only one, of the three official contacts listed in Section 20.1: (i) the official RokNut Academy email, roknut.academy@theroknutacademy.com; (ii) Ronin's email, ronin@theroknutacademy.com; or (iii) Ronin's Discord account, rvoincofficial.
+- (b) **Formal Notices by Email.** Formal legal notices, including notices under the U.S. Digital Millennium Copyright Act ("**DMCA**"), will be sent by email from one of the two email addresses above. Discord messages from the official Discord account may be used only for informal or courtesy communications, and are not a substitute for a formal notice.
+- (c) **Incoming Notices.** An Incoming Notice is effective only if it is delivered to one or more of the official contacts in Section 20.1. Notices sent to any other person, account, server, channel, bot, staff member, volunteer, social media profile, or address are not received by Licensor, are not binding on it, and do not start any response period.
+- (d) **Anything Else Is Not Authentic.** Any takedown request, demand, or legal threat claiming to come from Licensor, RokNut Academy, or Ronin from any source other than those three official contacts is **not authentic**, is not authorized by Licensor, and should be disregarded and reported to the official RokNut Academy email.
+
+**22.3 Sole Handler.**
+
+- (a) **Ronin Only.** All takedown matters, whether Incoming or Outgoing, are handled **exclusively by Ronin**, the founder of Licensor. This includes receiving, reviewing, issuing, responding to, negotiating, withdrawing, and settling any takedown matter.
+- (b) **No Other Authority.** No other person, including any employee, staff member, moderator, administrator, volunteer, contributor, partner, bot, or community member, has authority to issue, accept, respond to, withdraw, waive, or negotiate any takedown matter on behalf of Licensor. Any purported action by anyone else is void and not binding on Licensor.
+- (c) **Identity.** Ronin acts under the name "Ronin." Ronin's real legal name is **not published** and is disclosed only upon a **verified request made through legal channels**, meaning a valid court order, subpoena, formal legal process served on Licensor, or a formal written request from a licensed attorney, a court, or a recognized hosting or platform legal department that Licensor is able to verify as authentic.
+- (d) **Disclosure Required by Law.** Nothing in this Section prevents Licensor or Ronin from using or disclosing a legal name, address, or signature where applicable law or a platform's formal legal process requires it (for example, in a DMCA notice or counter-notice). Any such disclosure is limited to the recipient and purpose for which it is legally required.
+- (e) **Continuity.** If Licensor transfers or changes the person who handles takedown matters, Licensor will update Section 20.1, and the new handler is treated as the sole handler from the date of the update.
+
+**22.4 How We Handle Incoming Notices.**
+
+- (a) **Required Contents.** To be considered complete, an Incoming Notice alleging copyright infringement must include, in writing: (i) identification of the copyrighted work claimed to be infringed; (ii) identification of the material claimed to be infringing, with enough detail (such as exact URLs or locations) for Licensor to find it; (iii) the claimant's name, mailing address, telephone number, and email address; (iv) a statement that the claimant has a good-faith belief that the use is not authorized by the copyright owner, its agent, or the law; (v) a statement, under penalty of perjury, that the information is accurate and that the claimant is the owner of, or authorized to act on behalf of the owner of, the right allegedly infringed; and (vi) a physical or electronic signature of the claimant or its authorized agent.
+- (b) **Acknowledgment.** Licensor will endeavor to acknowledge receipt of a properly delivered Incoming Notice within five (5) business days. This is a goal and not a guarantee, and a failure to meet it does not create liability or waive any right.
+- (c) **Review.** Ronin will review each Incoming Notice for completeness, authenticity, and validity. Licensor may request additional information, evidence of ownership, or verification of the claimant's identity or authority, and may decline to act on a notice that is incomplete, unverified, abusive, or made in bad faith.
+- (d) **Action on Valid Notices.** If an Incoming Notice is complete and appears valid, Licensor will act expeditiously to remove or disable access to the identified material.
+- (e) **Notice to the Affected Person.** Where the person who posted or submitted the material can be identified, Licensor will make reasonable efforts to notify them of the removal, to provide a copy or summary of the notice, and to explain their right to submit a counter-notice.
+- (f) **Counter-Notices.** A counter-notice must be sent to the official contacts and must include: (i) identification of the removed material and where it appeared; (ii) a statement, under penalty of perjury, of a good-faith belief that the material was removed by mistake or misidentification; (iii) the sender's name, address, and telephone number; (iv) consent to the jurisdiction of the federal court for the sender's address (or, if outside the United States, any judicial district in which Licensor may be found); (v) a statement that the sender will accept service of process from the claimant; and (vi) a physical or electronic signature.
+- (g) **Forwarding and Restoration.** Licensor will forward a valid counter-notice to the original claimant. Unless the claimant notifies Licensor within ten (10) business days that it has filed a court action seeking to restrain the activity, Licensor may restore the material within ten (10) to fourteen (14) business days after receiving the counter-notice, as permitted by law.
+- (h) **Repeat Infringers.** Licensor will suspend or terminate access, accounts, and rights of any person who is a repeat infringer, as determined by Licensor in its sole discretion.
+- (i) **Knowingly False Notices.** Any person who knowingly and materially misrepresents that material is infringing, or that it was removed by mistake, may be liable for damages, costs, and attorneys' fees under applicable law, and Licensor reserves all rights against such persons.
+- (j) **Other Types of Complaints.** Complaints other than copyright (for example, trademark, privacy, defamation, or other claims) will be reviewed by Ronin and handled at Licensor's discretion. Licensor may require a court order or other formal legal process before acting.
+- (k) **Independent Right to Remove.** Nothing in this Section limits Licensor's right to remove, restrict, or disable any content or access at any time, with or without a notice, for any reason.
+- (l) **Records.** Licensor may keep copies of Incoming Notices, counter-notices, and related correspondence, and may share them with its legal advisors, hosting providers, platforms, courts, and as required by law.
+
+**22.5 What We Do When We Issue Outgoing Notices.**
+
+- (a) **Verification and Evidence.** Before issuing an Outgoing Notice, Ronin will review the suspected violation and preserve evidence, which may include URLs, screenshots, archived copies, timestamps, repository histories and commit records, and other proof of the infringing material and its source.
+- (b) **Good-Faith Review.** Before sending an Outgoing Notice alleging copyright infringement, Ronin will consider in good faith whether the use may be authorized by law, including as fair use.
+- (c) **Optional Courtesy Notice.** Licensor may, but is not required to, first send a courtesy notice or cease-and-desist demand to the suspected infringer, with a deadline to comply. Licensor may skip this step, and go directly to a formal notice or legal action, where the infringement appears willful, commercial, repeated, ongoing, or harmful to security or users.
+- (d) **Formal Notices to Platforms and Providers.** Licensor may send formal notices to any hosting provider, repository host, Third-Party Platform, domain registrar, content delivery network, search engine, payment processor, app marketplace, or other intermediary that hosts, indexes, facilitates, or profits from the infringing material. Such notices will be sent in accordance with the DMCA and equivalent laws and the recipient's published procedures, and will include the information such laws and procedures require.
+- (e) **Contents.** An Outgoing Notice will identify the work, identify the infringing material and its location, state Licensor's good-faith belief, and state that the information is accurate and that Licensor is authorized to act, and will be signed by Ronin, or by Ronin's legal name where the law or recipient requires it.
+- (f) **Follow-Up and Escalation.** Licensor will track the response to each Outgoing Notice. If the notice is ignored, rejected, or met with a counter-notice, Licensor may send further notices, escalate to other intermediaries, report the conduct to Third-Party Platforms, seek injunctive relief and damages in court, and use any other remedy available under this Agreement or law.
+- (g) **Lawful Methods Only.** Licensor will not access, probe, or interfere with the systems or accounts of any suspected infringer in order to gather evidence or enforce its rights, except through lawful process.
+- (h) **Withdrawal.** Only Ronin may withdraw an Outgoing Notice. A withdrawal is not an admission, a waiver of any right, or a license, and does not prevent Licensor from issuing a new notice for the same or other material.
+- (i) **Consent to Sharing.** By using the RokNut Ecosystem or hosting infringing material, You acknowledge that Outgoing Notices, Incoming Notices, and counter-notices, including identifying information, may be shared with the other party, with intermediaries, and with third-party notice repositories, and may be made public by them.
+- (j) **No Election of Remedies.** Issuing an Outgoing Notice is not an election of remedies and does not waive or limit any other right or remedy, including claims for damages, profits, fees, and injunctive relief.
+- (k) **Verifying Authenticity.** Any recipient of an Outgoing Notice may verify that it is genuine by emailing the official RokNut Academy address in Section 20.1 and asking Ronin to confirm it. Licensor will not confirm a notice that did not come from an official contact, and will treat the impersonation of Licensor as a serious violation of this Agreement.
+
+**22.6 Impersonation and Abuse.** Impersonating Licensor, RokNut Academy, or Ronin, including sending fake takedown notices, fake counter-notices, or fake legal threats, is a material breach of this Agreement and may be unlawful. Licensor will report it to the relevant platform and authorities and may pursue all available remedies.
+
+**22.7 No Waiver; Relationship to Other Sections.** Licensor's handling of any takedown matter, or its delay or decision not to act, does not waive any right. In any conflict between this Section and Section 13.6 as to takedown procedure, this Section controls.
 
 ---
 
