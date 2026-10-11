@@ -82,8 +82,10 @@ We review requests case by case and may decline them.
 | Contact | Channel | Details |
 | --- | --- | --- |
 | **Official RokNut Academy** | 📧 Email | [roknut.academy@theroknutacademy.com](mailto:roknut.academy@theroknutacademy.com) |
-| **Ronin** (Founder) | 📧 Email | [ronin@theroknutacademy.com](mailto:ronin@theroknutacademy.com) |
-| **Ronin** (Founder) | 💬 Discord | `rvoincofficial` |
+| **Ronin** (Co-Founder) | 📧 Email | [ronin@theroknutacademy.com](mailto:ronin@theroknutacademy.com) |
+| **Ronin** (Co-Founder) | 💬 Discord | `rvoincofficial` |
+
+-# Ronin Is The Online Name Of The Registrant Of The Roknut Academy As a Business In The United States
 
 These are the only official channels. For license requests and legal notices, email the official RokNut Academy address.
 
