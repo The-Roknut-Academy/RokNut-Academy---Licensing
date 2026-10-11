@@ -460,11 +460,19 @@ Except to the extent expressly permitted in Section 4 or by a separate written a
 
 ## SECTION 20 — NOTICES AND CONTACT
 
-**20.1 Contact.** Notices to Licensor, license requests, takedown inquiries, and vulnerability reports must be sent to: **[CONTACT EMAIL]**, with a copy by mail to **[MAILING ADDRESS]** where a notice concerns a legal claim.
+**20.1 Official Contacts.** Notices to Licensor, license requests, takedown inquiries, and vulnerability reports must be sent through the following official channels:
+
+| Contact | Channel | Details |
+| --- | --- | --- |
+| **Official RokNut Academy** | Email | roknut.academy@theroknutacademy.com |
+| **Ronin** (Founder) | Email | ronin@theroknutacademy.com |
+| **Ronin** (Founder) | Discord | rvoincofficial |
+
+Notices concerning a legal claim, a breach of this Agreement, or a request for a commercial license must be sent by email to **roknut.academy@theroknutacademy.com**, with a copy to **ronin@theroknutacademy.com**. A notice is not effective if sent only by Discord or social media message.
 
 **20.2 Notices to You.** Licensor may give notice by posting on the RokNut Ecosystem, in the relevant repository, through the Discord server, or to any contact information You have provided. Notices are effective upon posting or sending.
 
-**20.3 Official Channels Only.** Licensor will only respond to requests made through official channels. Statements by anyone claiming to speak for Licensor through unofficial channels do not bind Licensor.
+**20.3 Official Channels Only.** The contacts listed in Section 20.1 are Licensor's only official channels. Licensor will only respond to requests made through them. Statements by anyone claiming to speak for Licensor through unofficial channels do not bind Licensor.
 
 ---
 
