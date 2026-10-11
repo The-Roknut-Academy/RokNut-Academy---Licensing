@@ -73,15 +73,25 @@ See **Schedule A** and **Schedule B** in the license for the full lists.
 
 Commercial use, self-hosting, redistribution, and other special permissions are available **only** through a separate written agreement.
 
-📧 Contact: **[CONTACT EMAIL]**
-
 We review requests case by case and may decline them.
+
+---
+
+## 📬 Official Contacts
+
+| Contact | Channel | Details |
+| --- | --- | --- |
+| **Official RokNut Academy** | 📧 Email | [roknut.academy@theroknutacademy.com](mailto:roknut.academy@theroknutacademy.com) |
+| **Ronin** (Founder) | 📧 Email | [ronin@theroknutacademy.com](mailto:ronin@theroknutacademy.com) |
+| **Ronin** (Founder) | 💬 Discord | `rvoincofficial` |
+
+These are the only official channels. For license requests and legal notices, email the official RokNut Academy address.
 
 ---
 
 ## 🔐 Found a Security Issue?
 
-Please report it privately and responsibly to **[CONTACT EMAIL]** rather than posting it publicly. See **Section 11** of the license for the good-faith research terms.
+Please report it privately and responsibly to **[roknut.academy@theroknutacademy.com](mailto:roknut.academy@theroknutacademy.com)** rather than posting it publicly. See **Section 11** of the license for the good-faith research terms.
 
 ---
 
